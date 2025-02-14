@@ -1,0 +1,131 @@
+{
+    "title": "🚀 Plan d'Action pour le Smart Contract CVNU.sol & Économie Circulaire",
+    "phases": [
+      {
+        "title": "📌 Phase 1 : Définition du Projet & Cahier des Charges",
+        "steps": [
+          {
+            "title": "✅ 1.1. Objectifs du Smart Contract CVNU.sol",
+            "description": [
+              "Automatiser la **collecte et la redistribution de la TVA** en fonction des transactions",
+              "Permettre la **monétisation des compétences** et du **travail** en intégrant une gestion **asynchrone**",
+              "Structurer un **modèle d’économie circulaire** basé sur la valeur du travail"
+            ]
+          },
+          {
+            "title": "✅ 1.2. Étude des Acteurs & Réglementation",
+            "description": [
+              "Identification des acteurs concernés :",
+              "  * **Travailleurs indépendants, entreprises, administration fiscale**",
+              "  * **Plateformes de freelancing et d'échange de services**",
+              "  * **Utilisateurs avec un CV numérique stocké sur la blockchain**",
+              "Étude des réglementations fiscales et des taux de TVA applicables"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "📌 Phase 2 : Architecture Technique du Smart Contract CVNU.sol",
+        "steps": [
+          {
+            "title": "✅ 2.1. Structure du Smart Contract",
+            "description": [
+              "🔹 **Modules principaux :**",
+              "1. **Module d'identité décentralisée** (DID – Decentralized Identity)",
+              "   * Associe chaque utilisateur à un **CV numérique universel** (CVNU)",
+              "   * Vérifie son **statut fiscal** (assujetti TVA, exonéré, particulier)",
+              "2. **Module de gestion des transactions**",
+              "   * Automatisation de la **facturation avec TVA**",
+              "   * Vérification du **statut TVA de l’acheteur et du vendeur**",
+              "   * Scission des paiements :",
+              "     * **Montant hors taxes** → envoyé au prestataire",
+              "     * **TVA collectée** → stockée dans un portefeuille temporaire avant redistribution",
+              "3. **Module de redistribution de la TVA**",
+              "   * Déclenchement **asynchrone** du paiement à l’administration fiscale",
+              "   * Gestion des **TVA déductibles** et calcul du solde net",
+              "4. **Module de monétisation des compétences**",
+              "   * Association d’une **valeur économique** à chaque mission effectuée",
+              "   * Attribution de tokens ou stablecoins en fonction du **travail réalisé**",
+              "   * Système de **reconnaissance des compétences** (NFT validant des expériences & qualifications)"
+            ]
+          }
+        ]
+      },
+          {
+        "title": "📌 Phase 3 : Développement & Déploiement du Smart Contract",
+        "steps": [
+          {
+            "title": "✅ 3.1. Technologies utilisées",
+            "description": [
+              "**Blockchain** : Ethereum (Solidity) / Polygon pour réduire les frais",
+              "**Stockage décentralisé** : IPFS / Arweave pour les CV",
+              "**Oracles** : Chainlink pour récupérer les taux de TVA et les règles fiscales",
+              "**Smart Contracts** : OpenZeppelin pour la sécurité et la gestion des tokens"
+            ]
+          },
+          {
+            "title": "✅ 3.2. Développement en étapes",
+            "description": [
+              "1. **Prototype du smart contract CVNU.sol**",
+              "2. **Intégration des mécanismes de TVA**",
+              "3. **Automatisation des transactions et paiements**",
+              "4. **Tests sur réseau testnet (Goerli, Mumbai, etc.)**",
+              "5. **Audit de sécurité**",
+              "6. **Déploiement sur mainnet**"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "📌 Phase 4 : Mise en Place du Modèle d’Économie Circulaire",
+        "steps": [
+          {
+            "title": "✅ 4.1. Définition du modèle économique",
+            "description": [
+              "Valorisation du travail via un **token natif**",
+              "Récompense des compétences par des **NFT de certification**",
+              "Redistribution de la TVA pour financer l’économie circulaire"
+            ]
+          },
+          {
+            "title": "✅ 4.2. Cas d’usage concrets",
+            "description": [
+              "Plateforme décentralisée de freelancing",
+              "Portefeuilles numériques pour stocker les revenus et la TVA",
+              "Automatisation des paiements avec **stablecoins (USDC, DAI, etc.)**"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "📌 Phase 5 : Tests & Scalabilité",
+        "steps": [
+          {
+            "title": "✅ 5.1. Scénarios de test",
+            "description": [
+              "Transaction entre deux particuliers",
+              "Transaction B2B avec TVA récupérable",
+              "Travailleur indépendant avec monétisation des compétences"
+            ]
+          },
+          {
+            "title": "✅ 5.2. Optimisation et amélioration continue",
+            "description": [
+              "Analyse des coûts (gas fees, efficacité du smart contract)",
+              "Adaptation aux évolutions réglementaires",
+              "Intégration de nouvelles blockchains si nécessaire"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "🌍 Conclusion : Vers un Nouveau Modèle Économique Décentralisé",
+        "description": [
+          "Avec CVNU.sol, on crée une **nouvelle économie circulaire** où :",
+          "* **La TVA est collectée et redistribuée automatiquement**",
+          "* **Les compétences sont monétisées de manière transparente**",
+          "* **Le travail a une valeur universelle, stockée et vérifiable sur la blockchain**"
+        ]
+      }
+    ]
+  }
