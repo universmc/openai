@@ -1,0 +1,16 @@
+{
+    "id": "asst_e7gYILSrT0s5hqb8tR3LR8ZJ",
+    "object":"assistant",
+    "created": "1739610987",
+    "name": "assistant",
+    "description": "null",
+    "model": "gpt-4o",
+    "instructions": "You are a personal math tutor. When asked a question, write and run javascript code to answer the question.",
+    "tools": "[ { type: 'code_interpreter' } ]",
+    "top_p": "1",
+    "temperature": "1",
+    "reasoning_effort": "null",
+    "tool_resources":" { code_interpreter: { file_ids: [] } }",
+    "metadata": {},
+    "response_format": "auto"
+  }
